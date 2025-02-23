@@ -68,4 +68,7 @@ you can upload the android APK or IOS IPA of your app and start adding and invit
 ![beta4](https://github.com/user-attachments/assets/b4cfc63a-35cc-4cfb-9082-a5330551b3b9)
 ![beta3](https://github.com/user-attachments/assets/b3aac88c-1b22-4fb4-8210-6b0693dd05b9)
 
+## References:
+https://firebase.google.com/docs/app-distribution/android/distribute-console
+
 
