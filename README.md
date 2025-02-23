@@ -2,7 +2,7 @@
 
 ## Description
 This project shows how to integrate firebase distribution to your flutter app for beta testing purposes, 
-you can upload an the android APK or IOS IPA of you app and start adding and inviting testers in firebase app distribution interface 
+you can upload the android APK or IOS IPA of you app and start adding and inviting testers in firebase app distribution interface 
 
 ## Installation Steps:
 
